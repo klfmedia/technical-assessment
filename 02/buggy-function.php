@@ -39,7 +39,7 @@ public function completeOrder($order_id) {
     $mail->addReplyTo('info@example.com', 'Information');
     $mail->isHTML(true);
     $mail->Subject = 'Your order is complete!';
-    $mail->Body    = 'Thank you for completing your order with us!';
+    $mail->Body    = 'Thank you for completing your order with us! Here's your transaction ID: '.$transaction->getId();
     $mail->send();
 
     echo "Okay!";
