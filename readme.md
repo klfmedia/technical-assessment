@@ -22,7 +22,7 @@ The purpose of this assessment will be to evaluate your code structure with basi
 
 ## Assessment 04
 
-Using the following parameters, create a class that charges taxes on an order total based on the user's province (Canada only). This class will also apply coupon discounts using a coupon code. Assume that the taxes and valid coupon codes are in a separate configuration file.
+Create a class that charges taxes on an order total based on the user's province (Canada only). This class will also apply coupon discounts using a coupon code. Assume that the taxes and valid coupon codes are in a separate configuration file.
 
 This assessment will allow us to evaluate your OOP skills.
 
