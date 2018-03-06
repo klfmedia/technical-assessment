@@ -1,6 +1,10 @@
 # KLF Technical Assessment
 
-This is the technical assessment for candidates looking to apply for the position of PHP Developer at KLF Group. Please allow around 2-3 hours to complete this assessment.
+This is the technical assessment for candidates looking to apply for the position of PHP Developer at KLF Group. 
+
+You can work on this technical assessment with whatever tools you'd require. For the assessments that would require you to build a function or a class, you can create the environment to test your function or class however you'd like. We'd just need to see the completed class or function.
+
+Please allow around 2-3 hours to complete this assessment.
 
 ## Assessment 01
 
@@ -29,4 +33,4 @@ This assessment will allow us to evaluate your OOP skills.
 
 ## Once completed
 
-Once your are finished, create a public repository and share the URL to your evaluator by email.
+For each assessment, include your finished code into the same directory for each assessment. Once your are finished, create a public repository on GitHub, upload your finished assessment and share the URL to your evaluator by email.
