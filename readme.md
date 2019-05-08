@@ -16,7 +16,7 @@ In the file messy-code.php, it contains functional code to display, add and upda
 
 This assessment will serve to evaluate your troubleshooting abilities.
 
-In the file bugg-function.php, there are a number of bugs that can cause potential issues in certain conditions. Identify these potential bugs and correct them. You are free to create or user whatever functions you'd like to complete this task.
+In the file buggy-function.php, there are a number of bugs that can cause potential issues in certain conditions. Identify these potential bugs and correct them. You are free to create or user whatever functions you'd like to complete this task.
 
 ## Assessment 03
 
